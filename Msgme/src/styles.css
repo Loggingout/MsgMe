@@ -12,6 +12,11 @@ body {
     color: white;
 }
 
+header {
+    background-color: black;
+    color: white;
+}
+
 .slogan-background { 
     background: linear-gradient(to right, #ff7e5f, #feb47b);
     align-items: center;

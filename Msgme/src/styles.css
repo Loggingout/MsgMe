@@ -13,9 +13,14 @@ body {
 
 .slogan-background {
     background-image: url(https://picsum.photos/200/300); 
-    color: #fff;
+    color: black;
     align-items: center;
     padding: 20px;
     border-radius: 0.5rem;
     border: 3px solid black;
+}
+
+image {
+    box-shadow: 10px 10px 10px 10px black;
+    border-radius: 0.5rem;
 }

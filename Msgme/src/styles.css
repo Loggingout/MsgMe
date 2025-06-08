@@ -25,8 +25,5 @@ img {
 }
 
 .slogan-text {
-    text-align: center;
-    color: transparent;
-    -webkit-background-clip: text;
-    background: linear-gradient(to right, purple, lightblue);
+   color: black;
 }

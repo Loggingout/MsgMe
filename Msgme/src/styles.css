@@ -11,11 +11,7 @@ body {
     padding: 20px;
 }
 
-.slogan-background {
-    background-image: url(https://picsum.photos/400/700); 
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+.slogan-background { 
     background: linear-gradient(to right, #ff7e5f, #feb47b);
     align-items: center;
     padding: 20px;
@@ -26,5 +22,12 @@ body {
 img {
     box-shadow: 5px 5px 5px 5px black;
     border-radius: 0.5rem;
+}
 
+.slogan-text {
+    text-align: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background: linear-gradient(to right, purple, lightblue);
 }

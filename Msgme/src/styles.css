@@ -13,7 +13,10 @@ body {
 
 .slogan-background {
     background-image: url(https://picsum.photos/400/700); 
-    color: black;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
     align-items: center;
     padding: 20px;
     border-radius: 0.5rem;

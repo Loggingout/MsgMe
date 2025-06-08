@@ -12,7 +12,7 @@ body {
 }
 
 .slogan-background {
-    background-image: url(https://picsum.photos/200/300) no-repeat; 
+    background-image: url(https://picsum.photos/200/300) cover; 
     color: black;
     align-items: center;
     padding: 20px;

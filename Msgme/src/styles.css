@@ -12,6 +12,10 @@ body {
     color: white;
 }
 
+.header-background {
+    background-color: black;
+}
+
 header {
     background-color: black;
     color: white;
